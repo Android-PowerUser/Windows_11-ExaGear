@@ -10,7 +10,7 @@ Since I noticed that the required files from "Master Lu" no longer seem to be av
 ### How do you install this?
 
 After installing the apk file, move the obb file you just downloaded in the internal storage to the path
-Android/obb/com.ludashi.benchmark/
+**Android/obb/com.ludashi.benchmark/**
 
 You may need to create the path first. You can then start the installed app. The app is only in Chinese but is still quite intuitive to use.
 
