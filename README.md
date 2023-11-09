@@ -18,7 +18,7 @@ You may need to create the path first. You can then start the installed app. The
 
 ### Alternatives
 
-If you value a different language or are bothered by the fact that due to the Windows 11 interface you cannot call Winecfg to switch Wine to Windows 10 functions (it simulates a Windows XP substructure), try [Windroid 11] (https://github.com/Android_PowerUser/Windroid_11) for Android that uses the current Wine-stable-v8.0.0 and supports Linux applications.
+If you value a different language or are bothered by the fact that due to the Windows 11 interface you cannot call Winecfg to switch Wine to Windows 10 functions (it simulates a Windows XP substructure), try [Windroid 11](https://github.com/Android_PowerUser/Windroid_11) for Android that uses the current Wine-stable-v8.0.0 and supports Linux applications.
 
 If instead you don't value an up-to-date interface and you like playing Windows games, you can also use [Box64Droid](https://github.com/Ilya114/Box64Droid) with a Windows 98 design.
 
