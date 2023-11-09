@@ -5,25 +5,25 @@ Da mir aufgefallen ist, dass die benötigen Dateien von "Master Lu" nicht mehr i
 
 
 coming soon:
+
 [ExaGear Windows 11 v0.2.4.apk]()
 [main.30.com.ludashi.benchmark.obb]()
 
 
-### Wie installiert man das?
+### How do you install this?
 
-Nachdem Sie die apk-Datei installiert haben verschieben Sie die soeben heruntergeladene obb-Datei im internen Speicher in den Pfad Android/obb/com.ludashi.benchmark/
+After installing the apk file, move the obb file you just downloaded in the internal storage to the path Android/obb/com.ludashi.benchmark/
 
-Sie müssen den Pfad möglicherweise erst erstellen. Danach können Sie die installierte App starten. Die App ist nur auf chinesisch aber trotzdem recht intuitiv zu bedienen.
+You may need to create the path first. You can then start the installed app. The app is only in Chinese but is still quite intuitive to use.
 
-### Alternativen
+### Alternatives
 
-Falls Sie Wert auf eine andere Sprache legen oder Sie stört, dass aufgrund der Windows 11 Oberfläche Sie Winecfg nicht aufrufen können, um es auf Windows 10 Funktionen umzustellen (es simuliert einen Windows XP Unterbau), probieren Sie [Windroid 11] aus (https://github.com/Android_PowerUser/Windroid_11) für Android das auf das aktuelle Wine-stable-v8.0.0 setzt und Linux Anwendungen unterstützt.
+If you value a different language or are bothered by the fact that due to the Windows 11 interface you cannot call Winecfg to switch Wine to Windows 10 functions (it simulates a Windows XP substructure), try [Windroid 11] (https://github.com/Android_PowerUser/Windroid_11) for Android that uses the current Wine-stable-v8.0.0 and supports Linux applications.
 
-Wenn Sie stattdessen wenig Wert auf eine aktuelle Oberfläche setzen und Sie gerne Windows Spiele spielen können Sie auch [Box64Droid](https://github.com/Ilya114/Box64Droid) mit einem Windows 98 Design nutzen.
+If instead you don't value an up-to-date interface and you like playing Windows games, you can also use [Box64Droid](https://github.com/Ilya114/Box64Droid) with a Windows 98 design.
 
 
-#### Warum jetzt?
+#### Why now?
 
-123pan.com ist nicht mehr online und die benötigte obb-Datei gibt es scheinbar schon länger nicht mehr zum download.
-
+123pan.com is no longer online and the required obb file has apparently not been available for download for a long time.
 
