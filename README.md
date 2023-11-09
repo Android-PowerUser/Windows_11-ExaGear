@@ -3,11 +3,8 @@
 
 Since I noticed that the required files from "Master Lu" no longer seem to be available on the Internet, I'm uploading them here again.
 
-
-coming soon:
-
-[ExaGear Windows 11 v0.2.4.apk]()
-[main.30.com.ludashi.benchmark.obb]()
+[ExaGear Windows 11 v0.2.4.apk](https://github.com/Android-PowerUser/Windows_11-ExaGear/releases/download/v0.2.4%2F30/ExaGear.PC_0.2.4.apk)
+[main.30.com.ludashi.benchmark.obb](https://github.com/Android-PowerUser/Windows_11-ExaGear/releases/download/v0.2.4%2F30/main.30.com.ludashi.benchmark.obb)
 
 
 ### How do you install this?
