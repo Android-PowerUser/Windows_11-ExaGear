@@ -16,11 +16,11 @@
 
  ### 备择方案
 
- 如果您看重不同的语言，或者因 Windows 11 界面而无法调用 Winecfg 将 Wine 切换到 Windows 10 功能（它模拟 Windows XP 子结构）而感到困扰，请尝试 [Windroid 11](https://github.com/Android-PowerUser/Windroid_11）适用于使用当前 Wine-stable-v8.0.0 并支持 Linux 应用程序的 Android。
+ 如果您看重不同的语言，或者因 Windows 11 界面而无法调用 Winecfg 将 Wine 切换到 Windows 10 功能（它模拟 Windows XP 子结构）而感到困扰，请尝试 [Windroid 11](https://github.com/Android-PowerUser/Windroid_11) 适用于使用当前 Wine-stable-v8.0.0 并支持 Linux 应用程序的 Android。
 
  如果您不看重最新的界面并且喜欢玩 Windows 游戏，您也可以使用具有 Windows 98 设计的 [Box64Droid](https://github.com/Ilya114/Box64Droid)。
 
 
  #### 为什么现在？
 
- 123pan.com 已不再在线，所需的 obb 文件显然已经很长时间无法下载。
+123pan.com 已不再在线，所需的 obb 文件显然已经很长时间无法下载。
