@@ -1,6 +1,6 @@
 # Windows 11 (ExaGear)
 ### ExaGear with real Windows 11 surface
-🇨🇳[中国人](https://github.com/Android-PowerUser/Windows_11-ExaGear/README%20China.md) 🇷🇺[Русский](https://github.com/Android-PowerUser/Windows_11-ExaGear/README%20Russia.md)
+🇨🇳[中国人](https://github.com/Android-PowerUser/Windows_11-ExaGear/blob/main/README%20China.md) 🇷🇺[Русский](https://github.com/Android-PowerUser/Windows_11-ExaGear/blob/main/README%20Russia.md)
 
 
 Since I noticed that the required files from "Master Lu" no longer seem to be available on the Internet, I'm uploading them here again.
