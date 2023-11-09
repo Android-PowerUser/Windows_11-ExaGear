@@ -1,7 +1,7 @@
 # Windows 11 (ExaGear)
 ### ExaGear with real Windows 11 surface
 
-Da mir aufgefallen ist, dass die benötigen Dateien von "Master Lu" nicht mehr im Internet verfügbar zu sein scheinen, lade ich sie hier nochmal hoch.
+Since I noticed that the required files from "Master Lu" no longer seem to be available on the Internet, I'm uploading them here again.
 
 
 coming soon:
